@@ -20,7 +20,7 @@ To perform a study on Socket Programming
 •	The server listens for incoming connections from clients, while clients initiate connections to the server.
 •	Servers are passive, waiting for connection requests, and clients are active, initiating communication.
 
-3, TCP/IP Protocol:
+3. TCP/IP Protocol:
 
 •	Transmission Control Protocol (TCP) and Internet Protocol (IP) are the foundational protocols for socket programming.
 •	TCP provides reliable, connection-oriented communication, ensuring data integrity and order.
